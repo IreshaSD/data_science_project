@@ -16,24 +16,44 @@ Real-time Results: Displays predicted results instantly after submission.
 #### 🏗️ Project Architecture
 
 data_science_project/
+
 ├── artifacts/               # Contains trained models and preprocessor objects
+
 │   ├── model.pkl            # Serialized machine learning model
+
 │   └── preprocessor.pkl     # Serialized preprocessor for feature scaling/encoding
+
 ├── src/                     # Main application code
+
 │   ├── components/          # Data transformation and ingestion modules
+
 │   │   ├── data_ingestion.py     # Data loading pipeline
+
 │   │   └── data_transformation.py  # Data preprocessing steps
+
 │   ├── pipeline/            # ML pipeline
+
 │   │   ├── predict_pipeline.py    # Prediction pipeline used in the app
+
 │   │   ├── train_pipeline.py      # Model training script
+
 │   ├── exception.py         # Custom exception handling for better debugging
+
+
 │   ├── logger.py            # Centralized logging for debugging and tracking
+
 │   └── utils.py             # Utility functions
+
 ├── notebooks/               # Jupyter notebooks for exploratory data analysis (EDA) and model training
+
 │   ├── 1. EDA STUDENT PERFORMANCE.ipynb   # Exploratory Data Analysis notebook
+
 │   ├── 2. MODEL TRAINING.ipynb            # Model Training and Evaluation notebook
+
 ├── app.py                   # Streamlit app entry point
+
 ├── requirements.txt         # Required Python libraries for the project
+
 └── .gitignore               # Files to be ignored by version control
 
 #### 🧠 Machine Learning Workflow
