@@ -50,12 +50,12 @@ Streamlit installed on your system
 
 #### 📊 How to Use the App
 
-Input the Data:
+#### Input the Data:
 Fill in the demographic details such as gender, race, parental education level, lunch type, etc.
 
-Enter the Scores:
+#### Enter the Scores:
 Choose between using sliders or manually entering the reading and writing scores.
 
-Make a Prediction:
+#### Make a Prediction:
 Click the Predict button to get the predicted score. The result will be displayed instantly.
 
