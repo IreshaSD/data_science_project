@@ -41,12 +41,12 @@ Once the model is trained, it is deployed into a Streamlit app. The app allows u
 Python 3.8
 Streamlit installed on your system
 
-###### 1.Clone the repository
+##### 1. Clone the repository
     git clone https://github.com/yourusername/student-performance-prediction.git
     cd student-performance-prediction
-###### 2.Install the dependencies(pip install -r requirements.txt)
-###### 3.Run the Streamlit app(streamlit run app.py)
-###### 4.Access the app
+##### 2. Install the dependencies(pip install -r requirements.txt)
+##### 3. Run the Streamlit app(streamlit run app.py)
+##### 4. Access the app
 
 #### 📊 How to Use the App
 
