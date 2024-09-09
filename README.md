@@ -15,7 +15,7 @@ Real-time Results: Displays predicted results instantly after submission.
 
 #### 🏗️ Project Architecture
 
-![Project_Architecture]([notebook/Project_Architecture.png](https://github.com/IreshaSD/data_science_project/blob/main/notebook/Project_Architecture%20.png)
+([notebook/Project_Architecture.png](https://github.com/IreshaSD/data_science_project/blob/main/notebook/Project_Architecture%20.png)
 
 
 #### 🧠 Machine Learning Workflow
