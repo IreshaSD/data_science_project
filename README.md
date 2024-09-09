@@ -38,7 +38,9 @@ Once the model is trained, it is deployed into a Streamlit app. The app allows u
 
 #### 🚀 How to Run the Project
 ##### Prerequisites:
+
 Python 3.8
+
 Streamlit installed on your system
 
 ##### 1. Clone the repository
