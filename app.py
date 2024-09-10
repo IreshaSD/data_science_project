@@ -101,6 +101,6 @@ if st.button("Predict"):
             st.write(results)
 
             # Display the results
-            st.success(f"The predicted score is: {results[0]}")
+            st.success(f"The predicted math score is: {results[0]}")
         except ValueError:
             st.error("Reading and Writing scores must be valid numbers.")
